@@ -1,1 +1,0 @@
-My HTML Component
